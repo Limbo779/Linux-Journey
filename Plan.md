@@ -18,6 +18,7 @@
 * in this process i may take a Linux exams to test my skill
 * Don't move to next resources without finishing previous one 
 * make sure to move to next resources only after getting good practical experience of the resource
+* Always make Anki flashcards as you learn
 
 **Exams (if you decide to take)** :
 1. Linux Essential from LPI
