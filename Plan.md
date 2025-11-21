@@ -32,3 +32,4 @@
 - I had a painfull troubleshooting when my default login manager failed
 - I had a documented the fixing by a chat with perplexity where it helps me to debug
 - I should find all the linux concepts from the experience and learn it first before moving with regular flow
+- Got the resources to learn from the practical experience , it is stored in Practical Experience one
