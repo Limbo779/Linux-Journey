@@ -21,7 +21,7 @@
 * Always make Anki flashcards as you learn
 
 **Exams (if you decide to take)** :
-1. Linux Essential from LPI
+1. Linux Essential from LPI (Resources available in Github starred repo)
 2. Comptia Linux+
 3. LPIC-1 from LPI
 4. RHCSA
