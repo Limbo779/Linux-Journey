@@ -33,3 +33,6 @@
 - I had a documented the fixing by a chat with perplexity where it helps me to debug
 - I should find all the linux concepts from the experience and learn it first before moving with regular flow
 - Got the resources to learn from the practical experience , it is stored in Practical Experience one
+- now after finishing command concepts i will attempt over the wire bandit and climb as much as levels as possible
+- then study one topic from linuxjourney.com before moving to next one finish two levels of bandit
+- we may get back to Projects once grasshoper is completed
