@@ -36,3 +36,9 @@
 - now after finishing command concepts i will attempt over the wire bandit and climb as much as levels as possible
 - then study one topic from linuxjourney.com before moving to next one finish two levels of bandit
 - we may get back to Projects once grasshoper is completed
+
+### 05/12/2025
+
+- I have completed Overthewire bandit till level 5
+- I have documented the progress and gonna convert that to Anki Flashcards
+- the perplexity chat for that purpose : [Documentation refining](https://www.perplexity.ai/search/you-are-an-expert-technical-wr-W9RKW2YaQWmgcushsrMKUA#0) , [Documentation to QA](https://www.perplexity.ai/search/identity-and-purpose-you-are-a-ejWQuXlcSBeh37luFwrlxA#0) and [Prompt Refining](https://www.perplexity.ai/search/you-are-gonna-refine-the-input-Zmwypim2RjiAYR1UvROdUw#0)

@@ -1,6 +1,6 @@
 ## Level 0
 
-- connect to server using ssh , "ssh bandit0@bandit.labs.overthewire.org -p 2220" 
+- connect to server using ssh , "ssh 6E4A-A638bandit0@bandit.labs.overthewire.org -p 2220" 
 - the above command asking host bandit.labs.overthewire.org to allow us to connect to bandit0 username at 2220 port
 
 ## Level 0 --> Level 1
