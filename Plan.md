@@ -50,7 +50,7 @@
 
 ### 11/12/2025
 
-- There is a thing called [sadservers](https://sadservers.com/) where we can fix a real broken linux system
+- There is a thing called [sadservers](https://sadservers.com/) where we can fix a real broken linux system , oh they also have stuff on Docker it will be helpfull for Arc_2
 - so i will spent time learning Linux user management 
 - and play around in some SadServers and try to play around in my VM
 - we will follow the routine of doing OTW Bandit before moving to next topic
