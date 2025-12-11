@@ -47,3 +47,10 @@
 
 - I have made the anki flashcards for Overthewire bandit till level 5
 - flashcards for linux commands in linuxjourney.com is made and revised
+
+### 11/12/2025
+
+- There is a thing called [sadservers](https://sadservers.com/) where we can fix a real broken linux system
+- so i will spent time learning Linux user management 
+- and play around in some SadServers and try to play around in my VM
+- we will follow the routine of doing OTW Bandit before moving to next topic
