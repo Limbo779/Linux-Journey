@@ -54,3 +54,8 @@
 - so i will spent time learning Linux user management 
 - and play around in some SadServers and try to play around in my VM
 - we will follow the routine of doing OTW Bandit before moving to next topic
+
+### 12/12/2025
+
+- After finishing User management, i will do two levels of OTW Bandit before moving
+- then i will finish permission section and then i will do as much as practice, from SadServer , TryHackMe , Hackthebox and play around on my own
