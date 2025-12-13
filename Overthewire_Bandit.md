@@ -56,3 +56,17 @@
 
 **Command used : ls , cd , pwd , file , cat**
 
+## Level 5 --> Level 6
+
+- so there are 20 different direc inside inhere named maybehere00 to maybehere19
+- each maybehere direc has files like "-file1  -file2  -file3  spaces file1  spaces file2  spaces file3" these 
+- checking each files based on requirement like 1033 bytes and human readable using file command is difficult
+- so using usign "ls -al" (will print show all the hidden files and give long details of the files and direc) can help us see the size 
+- but still going to each directory and looking for 1033 byte file is difficult
+- so using this command "ls -al maybehere07 | grep 1033" will go into that direct and look for file with 1033 byte size using grep
+- grep will search for 1033 term . "|" will use the output of "ls -al maybehere07" into grep 1033
+- so on checking for each direc it was found that .file2 from maybehere07 has the password
+
+**Password to next level : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
+
+**Command used : ls , cd , file , grep , | ,cat**
